@@ -18,9 +18,9 @@ import (
 	"path"
 	"path/filepath"
 
-	"golang.org/x/image/font"
-	"golang.org/x/image/font/plan9font"
-	"golang.org/x/image/math/fixed"
+	"github.com/hezhenwei/golang/x/image/font"
+	"github.com/hezhenwei/golang/x/image/font/plan9font"
+	"github.com/hezhenwei/golang/x/image/math/fixed"
 )
 
 func main() {

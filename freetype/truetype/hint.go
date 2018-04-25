@@ -12,7 +12,7 @@ import (
 	"errors"
 	"math"
 
-	"github.com/hezhenwei/x/image/math/fixed"
+	"github.com/hezhenwei/golang/x/image/math/fixed"
 )
 
 const (

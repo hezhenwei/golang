@@ -6,8 +6,8 @@
 package truetype
 
 import (
-	"../../image/font"
-	"../../image/math/fixed"
+	"github.com/hezhenwei/x/image/font"
+	"github.com/hezhenwei/x/image/math/fixed"
 )
 
 // TODO: implement VerticalHinting.

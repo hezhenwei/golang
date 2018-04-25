@@ -13,10 +13,10 @@ import (
 	"image"
 	"image/draw"
 
-	"../freetype/raster"
-	"../freetype/truetype"
-	"../image/font"
-	"../image/math/fixed"
+	"github.com/hezhenwei/golang/freetype/raster"
+	"github.com/hezhenwei/golang/freetype/truetype"
+	"github.com/hezhenwei/golang/x/image/font"
+	"github.com/hezhenwei/golang/x/image/math/fixed"
 )
 
 // These constants determine the size of the glyph cache. The cache is keyed

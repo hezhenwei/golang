@@ -15,12 +15,12 @@
 //
 // To measure a TrueType font in ideal FUnit space, use scale equal to
 // font.FUnitsPerEm().
-package truetype // import "github.com/golang/freetype/truetype"
+package truetype // import "github.com/hezhenwei/golang/freetype/truetype"
 
 import (
 	"fmt"
 
-	"../../image/math/fixed"
+	"github/hezhenwei/x/image/math/fixed"
 )
 
 // An Index is a Font's index of a rune.

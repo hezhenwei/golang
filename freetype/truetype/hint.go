@@ -12,7 +12,7 @@ import (
 	"errors"
 	"math"
 
-	"../../image/math/fixed"
+	"github.com/hezhenwei/x/image/math/fixed"
 )
 
 const (

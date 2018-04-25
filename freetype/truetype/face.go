@@ -9,9 +9,9 @@ import (
 	"image"
 	"math"
 
-	"github.com/hezhenwei/freetype/raster"
-	"github.com/hezhenwei/x/image/font"
-	"github.com/hezhenwei/x/image/math/fixed"
+	"github.com/hezhenwei/golang/freetype/raster"
+	"github.com/hezhenwei/golang/x/image/font"
+	"github.com/hezhenwei/golang/x/image/math/fixed"
 )
 
 func powerOf2(i int) bool {

@@ -20,7 +20,7 @@ package truetype // import "github.com/hezhenwei/golang/freetype/truetype"
 import (
 	"fmt"
 
-	"github.com/hezhenwei/x/image/math/fixed"
+	"github.com/hezhenwei/golang/x/image/math/fixed"
 )
 
 // An Index is a Font's index of a rune.

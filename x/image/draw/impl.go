@@ -7,7 +7,7 @@ import (
 	"image/color"
 	"math"
 
-	"../math/f64"
+	"github.com/hezhenwei/golang/x/image/math/f64"
 )
 
 func (z nnInterpolator) Scale(dst Image, dr image.Rectangle, src image.Image, sr image.Rectangle, op Op, opts *Options) {

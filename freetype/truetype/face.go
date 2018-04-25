@@ -9,9 +9,9 @@ import (
 	"image"
 	"math"
 
-	"../../freetype/raster"
-	"../../image/font"
-	"../../image/math/fixed"
+	"github.com/hezhenwei/freetype/raster"
+	"github.com/hezhenwei/x/image/font"
+	"github.com/hezhenwei/x/image/math/fixed"
 )
 
 func powerOf2(i int) bool {
